@@ -13,3 +13,7 @@ group :assets do
   gem 'jbuilder', '~> 1.2'
   gem 'haml-rails'
 end
+
+group :test do
+  gem 'rspec-rails'
+end
